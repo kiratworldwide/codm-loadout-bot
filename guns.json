@@ -1,0 +1,387 @@
+{
+  "m4": {
+    "type": "Assault Rifle",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: Marksman Barrel",
+      "Optic: Classic Red Dot Sight",
+      "Underbarrel: Ranger Foregrip",
+      "Ammunition: 40 Round Mag"
+    ],
+    "tip": "Best all-range AR. Use for mid-long range engagements with controlled bursts."
+  },
+  "ak-47": {
+    "type": "Assault Rifle",
+    "attachments": [
+      "Muzzle: Compensator",
+      "Barrel: MIP Custom Long",
+      "Optic: Tactical Scope",
+      "Underbarrel: Strike Foregrip",
+      "Ammunition: 40 Round Mag"
+    ],
+    "tip": "High damage AR. Pull down-left to control recoil. Best for close-mid range."
+  },
+  "m16": {
+    "type": "Assault Rifle",
+    "attachments": [
+      "Muzzle: Light Suppressor",
+      "Barrel: RTC Ranger Barrel",
+      "Optic: 3x Tactical Scope",
+      "Underbarrel: Tactical Foregrip A",
+      "Ammunition: 40 Round Mag"
+    ],
+    "tip": "Burst-fire beast. Aim for upper chest to get headshots with recoil."
+  },
+  "ak-117": {
+    "type": "Assault Rifle",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: MIP Light Barrel (Short)",
+      "Optic: Classic Red Dot Sight",
+      "Underbarrel: Merc Foregrip",
+      "Ammunition: 38 Round Fast Reload"
+    ],
+    "tip": "Fastest firing AR. Perfect for aggressive close-mid range play."
+  },
+  "bk57": {
+    "type": "Assault Rifle",
+    "attachments": [
+      "Muzzle: Compensator",
+      "Barrel: OWC Ranger Barrel",
+      "Optic: Holographic Sight",
+      "Underbarrel: Strike Foregrip",
+      "Ammunition: 40 Round Mag"
+    ],
+    "tip": "Unique horizontal recoil pattern. Practice controlling the zig-zag recoil."
+  },
+  "lk24": {
+    "type": "Assault Rifle",
+    "attachments": [
+      "Muzzle: Light Suppressor",
+      "Barrel: MIP Light Barrel (Short)",
+      "Optic: Classic Red Dot Sight",
+      "Underbarrel: Tactical Foregrip A",
+      "Ammunition: 40 Round Mag"
+    ],
+    "tip": "Laser beam accuracy. Best for beginners learning recoil control."
+  },
+  "kn-44": {
+    "type": "Assault Rifle",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: OWC Ranger Barrel",
+      "Optic: Classic Red Dot Sight",
+      "Underbarrel: Merc Foregrip",
+      "Ammunition: 40 Round Mag"
+    ],
+    "tip": "Aggressive AR with good mobility. Strafe while firing in close range."
+  },
+  "pdw-57": {
+    "type": "SMG",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: MIP Light Barrel (Short)",
+      "Laser: OWC Laser - Tactical",
+      "Underbarrel: Merc Foregrip",
+      "Ammunition: 65 Round Mag"
+    ],
+    "tip": "High-capacity SMG. Perfect for flanking and multi-kills."
+  },
+  "rus-79u": {
+    "type": "SMG",
+    "attachments": [
+      "Muzzle: Light Suppressor",
+      "Barrel: Extended Light Barrel",
+      "Laser: OWC Laser - Tactical",
+      "Underbarrel: Ranger Foregrip",
+      "Ammunition: 50 Round Fast Reload"
+    ],
+    "tip": "Well-rounded SMG with AR-like range. Good for hybrid playstyles."
+  },
+  "qq9": {
+    "type": "SMG",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: RTC Recon Tac Long",
+      "Laser: OWC Laser - Tactical",
+      "Underbarrel: Ranger Foregrip",
+      "Ammunition: 45 Round Mag"
+    ],
+    "tip": "Close-range monster. Strafe while firing to maximize TTK."
+  },
+  "hg40": {
+    "type": "SMG",
+    "attachments": [
+      "Muzzle: Light Suppressor",
+      "Barrel: MIP Light Barrel (Short)",
+      "Laser: OWC Laser - Tactical",
+      "Underbarrel: Merc Foregrip",
+      "Ammunition: 38 Round Fast Reload"
+    ],
+    "tip": "SMG with AR-like range. Best for mid-range SMG play."
+  },
+  "cbr4": {
+    "type": "SMG",
+    "attachments": [
+      "Muzzle: Agency Suppressor",
+      "Barrel: Extended Light Barrel",
+      "Stock: YKM Light Stock",
+      "Underbarrel: Field Agent Foregrip",
+      "Ammunition: 40 Round Fast Mag"
+    ],
+    "tip": "Meta SMG with insane strafe speed. Best for aggressive rushing."
+  },
+  "switchblade x9": {
+    "type": "SMG",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: Extended Light Barrel",
+      "Laser: OWC Laser - Tactical",
+      "Underbarrel: Merc Foregrip",
+      "Ammunition: 48 Round Fast Reload"
+    ],
+    "tip": "Fastest firing SMG. Perfect for ultra-close range melt potential."
+  },
+  "pp19 bizon": {
+    "type": "SMG",
+    "attachments": [
+      "Muzzle: Light Suppressor",
+      "Barrel: MIP Light Barrel (Short)",
+      "Laser: OWC Laser - Tactical",
+      "Underbarrel: Ranger Foregrip",
+      "Ammunition: 84 Round Mag"
+    ],
+    "tip": "Huge magazine for continuous fire. Great for holding objectives."
+  },
+  "dl q33": {
+    "type": "Sniper Rifle",
+    "attachments": [
+      "Muzzle: Suppressor",
+      "Barrel: MIP Light Barrel (Short)",
+      "Optic: Tactical Scope",
+      "Stock: YKM Light Stock",
+      "Perk: Fast Switch"
+    ],
+    "tip": "Quickscope king. Use for aggressive sniping and fast ADS."
+  },
+  "arctic .50": {
+    "type": "Sniper Rifle",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: RTC Extended Light Barrel",
+      "Optic: 6x Tactical Scope",
+      "Stock: YKM Light Stock",
+      "Ammunition: 12 Round Mag"
+    ],
+    "tip": "Semi-auto sniper. Spam fire at upper body for quick kills."
+  },
+  "locus": {
+    "type": "Sniper Rifle",
+    "attachments": [
+      "Muzzle: Light Suppressor",
+      "Barrel: OWC Marksman Barrel",
+      "Optic: Classic Red Dot Sight",
+      "Stock: YKM Light Stock",
+      "Perk: Fast Switch"
+    ],
+    "tip": "Clean scope with fast handling. Best for quick hardscoping."
+  },
+  "xpr-50": {
+    "type": "Sniper Rifle",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: MIP Light Barrel (Short)",
+      "Optic: 6x Tactical Scope",
+      "Stock: YKM Light Stock",
+      "Ammunition: 12 Round Mag"
+    ],
+    "tip": "High fire rate sniper. Aim for upper chest for two-shot kills."
+  },
+  "outlaw": {
+    "type": "Sniper Rifle",
+    "attachments": [
+      "Muzzle: Light Suppressor",
+      "Barrel: OWC Marksman Barrel",
+      "Optic: Tactical Scope",
+      "Stock: YKM Light Stock",
+      "Perk: Fast Switch"
+    ],
+    "tip": "Fastest bolt-action. Requires upper chest/head shots for one-hit kills."
+  },
+  "sks": {
+    "type": "Sniper Rifle",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: RTC Extended Light Barrel",
+      "Optic: 3x Tactical Scope",
+      "Underbarrel: Ranger Foregrip",
+      "Ammunition: 30 Round Mag"
+    ],
+    "tip": "Marksman rifle with semi-auto fire. Tap fire rapidly at mid-range."
+  },
+  "hs0405": {
+    "type": "Shotgun",
+    "attachments": [
+      "Muzzle: Choke",
+      "Barrel: Extended Light Barrel",
+      "Laser: OWC Laser - Tactical",
+      "Stock: No Stock",
+      "Ammunition: 8 Round Reload"
+    ],
+    "tip": "Pump-action with one-shot potential. Aim down sights for tighter spread."
+  },
+  "krm-262": {
+    "type": "Shotgun",
+    "attachments": [
+      "Barrel: Extended Light Barrel",
+      "Laser: OWC Laser - Tactical",
+      "Stock: No Stock",
+      "Ammunition: 12 Round Reload",
+      "Rear Grip: Granulated Grip Tape"
+    ],
+    "tip": "Most consistent pump shotgun. Slide+jump when approaching enemies."
+  },
+  "by15": {
+    "type": "Shotgun",
+    "attachments": [
+      "Muzzle: Choke",
+      "Barrel: Extended Light Barrel",
+      "Laser: OWC Laser - Tactical",
+      "Stock: No Stock",
+      "Ammunition: 8 Round Reload"
+    ],
+    "tip": "Best for aggressive play. One-shot kill within 7m with good aim."
+  },
+  "striker": {
+    "type": "Shotgun",
+    "attachments": [
+      "Muzzle: Choke",
+      "Barrel: Extended Light Barrel",
+      "Laser: OWC Laser - Tactical",
+      "Underbarrel: Merc Foregrip",
+      "Ammunition: 12 Round Fast Reload"
+    ],
+    "tip": "Full-auto shotgun. Requires 2-3 shots to kill. Best for spamming."
+  },
+  "echo": {
+    "type": "Shotgun",
+    "attachments": [
+      "Muzzle: Choke",
+      "Barrel: Extended Light Barrel",
+      "Laser: OWC Laser - Tactical",
+      "Stock: No Stock",
+      "Ammunition: 25 Round Drum"
+    ],
+    "tip": "Drum magazine shotgun. Requires 2-3 shots but has huge capacity."
+  },
+  "rpd": {
+    "type": "LMG",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: Extended Light Barrel",
+      "Optic: 3x Tactical Scope",
+      "Underbarrel: Ranger Foregrip",
+      "Ammunition: 150 Round Belt"
+    ],
+    "tip": "Built-in cooling barrel. Pre-fire corners and hold angles."
+  },
+  "m4lmg": {
+    "type": "LMG",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: MIP Light Barrel (Short)",
+      "Optic: Classic Red Dot Sight",
+      "Underbarrel: Merc Foregrip",
+      "Ammunition: 100 Round Mag"
+    ],
+    "tip": "AR-like handling. Good for aggressive LMG play."
+  },
+  "chopper": {
+    "type": "LMG",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: Extended Light Barrel",
+      "Optic: Classic Red Dot Sight",
+      "Underbarrel: Ranger Foregrip",
+      "Ammunition: 150 Round Belt"
+    ],
+    "tip": "High-capacity LMG with unique firing sound. Great for suppression."
+  },
+  "holger 26": {
+    "type": "LMG",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: Extended Light Barrel",
+      "Optic: 3x Tactical Scope",
+      "Underbarrel: Ranger Foregrip",
+      "Ammunition: 100 Round Belt"
+    ],
+    "tip": "Convert to AR configuration by removing the belt. Laser beam at range."
+  },
+  "kilo bolt-action": {
+    "type": "Marksman",
+    "attachments": [
+      "Muzzle: Light Suppressor",
+      "Barrel: FSS 24.0\" Predator",
+      "Laser: OWC Laser - Tactical",
+      "Stock: YKM Light Stock",
+      "Rear Grip: Stippled Grip Tape"
+    ],
+    "tip": "Headshot machine. Practice flick shots for instant kills."
+  },
+  "sp-r 208": {
+    "type": "Marksman",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: FSS 20.0\" Barrel",
+      "Optic: Tactical Scope",
+      "Stock: YKM Light Stock",
+      "Perk: Fast Switch"
+    ],
+    "tip": "Quickscope-focused marksman rifle. Upper chest one-shot kill."
+  },
+  "mk2 carbine": {
+    "type": "Marksman",
+    "attachments": [
+      "Muzzle: Light Suppressor",
+      "Barrel: FSS 24.0\" Predator",
+      "Laser: OWC Laser - Tactical",
+      "Stock: YKM Light Stock",
+      "Rear Grip: Stippled Grip Tape"
+    ],
+    "tip": "Lever-action with high skill ceiling. Headshots are instant kills."
+  },
+  "j358": {
+    "type": "Pistol",
+    "attachments": [
+      "Muzzle: Light Suppressor",
+      "Barrel: J358 Long",
+      "Laser: OWC Laser - Tactical",
+      "Trigger Action: Lightweight Trigger",
+      "Ammunition: 8 Round Reload"
+    ],
+    "tip": "Akimbo version is deadly in close quarters. ADS for long-range precision."
+  },
+  "mw11": {
+    "type": "Pistol",
+    "attachments": [
+      "Muzzle: Light Suppressor",
+      "Barrel: Extended Light Barrel",
+      "Laser: OWC Laser - Tactical",
+      "Trigger Action: Lightweight Trigger",
+      "Ammunition: 15 Round Mag"
+    ],
+    "tip": "Fast-firing pistol. Best for finishing wounded enemies."
+  },
+  "renetti": {
+    "type": "Pistol",
+    "attachments": [
+      "Muzzle: Monolithic Suppressor",
+      "Barrel: Extended Light Barrel",
+      "Laser: OWC Laser - Tactical",
+      "Trigger Action: Lightweight Trigger",
+      "Ammunition: 27 Round Mag"
+    ],
+    "tip": "Burst-fire pistol with good TTK. Akimbo version melts at close range."
+  }
+}
